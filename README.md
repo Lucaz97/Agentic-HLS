@@ -1,5 +1,5 @@
-# Anonimized sumbission
-This repo is for an anonymized submission.
+# Agentic HLS
+
 Full logs of our runs are in output_logs
 
 ### Requirements
